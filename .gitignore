@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+healthcare-dataset-stroke-data.csv
+venv5/
+trained_model.pkl
+catboost_info
